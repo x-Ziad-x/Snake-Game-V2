@@ -24,10 +24,6 @@ A classic Snake game implementation with player profiles, high score tracking, a
 ## Game Settings
 
 - Speed: Slow, Medium, Fast
-- Slow: Easier difficulty
-- Medium: Balanced gameplay
-- Fast: Challenging difficulty
-
 - Borders:
 - Enabled: Classic mode (die on wall collision)
 - Disabled: Wraparound mode (snake appears on opposite side)
